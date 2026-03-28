@@ -16,7 +16,7 @@ This project combines classical portfolio optimization with real-time simulation
 - Saves charts and logs automatically to the `plots/` folder
 
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 portfolio-optimization/
